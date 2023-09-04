@@ -4,6 +4,7 @@
 1.先用take_stereoPhoto.py，拍攝數張9*6標定版照片
 
 2.執行python camera_calibration.py img/
+
 ---
 
 輸出參數:
